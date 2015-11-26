@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-You need to initialize a repository so the system knows that you want to version control the folders, and will create the right house-keeping files to track the metadata and file versions. 

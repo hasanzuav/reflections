@@ -1,0 +1,7 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- Being able to use version control will allow me to be more efficient when running experiments and modifications to my code. Also, it will prepare me to work with teams on large projects where revision matters.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- The pros of manually committing is that you get to chose logical steps when to save, are allowed to group your tasks appropriately, and have a more intuitive log.
+- The cons of manually committing is that you may forget and that you might start working on other tasks before committing.
