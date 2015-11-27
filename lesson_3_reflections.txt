@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 You would want to use a remote repository when you want it to be accessible by the public, backed up, and saved to the web. Posting to a remote repository will prevent computer failure from destroying your work and also allows other people to view and benefit from your work.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+- You would want to pull changes manually rather than having Git auto update because you might be working on changes to your file and do not want Git to change your file automatically. 
