@@ -5,3 +5,11 @@ You would want to use a remote repository when you want it to be accessible by t
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 - You would want to pull changes manually rather than having Git auto update because you might be working on changes to your file and do not want Git to change your file automatically. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- The benefit of having a copy of the last known state of the remote stored locally is that you can know how your changes will affect the remote once you push your changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- Without git you would have to constantly send files back and forth (if you were not using another version control). You would have to constantly compare where changes were made by hand and would not be able to keep a record of the changes. With Git and other version control, you will have a nice backup of your work with a history of changes and notes as you made the program. With Git, collaboration is easier to track and maintain. 
