@@ -13,3 +13,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 - Without git you would have to constantly send files back and forth (if you were not using another version control). You would have to constantly compare where changes were made by hand and would not be able to keep a record of the changes. With Git and other version control, you will have a nice backup of your work with a history of changes and notes as you made the program. With Git, collaboration is easier to track and maintain. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- By making changes in a seperate branch rather than directly in master allows you to have production quality code in master and experiment in branches so that other people will always have the ability to pull a working production level product from master. If your experimental change takes long, you can still version control it in the seperate branch using commits. 
